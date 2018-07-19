@@ -1,0 +1,12 @@
+{
+    "ID":"2f4e384e-76ce-45c3-aea2-b16f5e5c320e",
+    "ActionKeyword":"dict",
+    "Name":"金山词典",
+    "Description":"金山词典",
+    "Author":"ever",
+    "Version":"1.0",
+    "Language":"python",
+    "Website":"",
+    "IcoPath":"Images\\app.png",
+    "ExecuteFileName":"main.py"
+}
